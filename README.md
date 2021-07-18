@@ -6,7 +6,7 @@ In this question we expect you to write a *Desktop Application*.
 ## Recommended Tools
 
 1. `Pyqt5`
-2. `pyqtgraph` or `matplotlib`
+2. `pyqtgraph` 
 
 ### Bouns Score:
 
@@ -14,8 +14,7 @@ Adding Zoom functionality to the graph.
 
 ## Sending Instruction.
 
-Please fork flowing repo and modify it as needed. then send an email to
-*nikneshan* at **baregheh.com**. for code review
+Please  send an email to *nikneshan*@**baregheh.com**. for code review
 
 Regards
 
